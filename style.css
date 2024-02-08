@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-size: 2rem;
+  display: flex;
+  min-height: 100vh;
+}
+
+main {
+  /* flex: 1; */
+  width: 700px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+aside {
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  height: 300px;
+  margin-top: auto;
+}
